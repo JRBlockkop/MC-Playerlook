@@ -8,6 +8,6 @@ requirements:
 
 run it with
 
-    node minecraft
+    node .
 or
 double clicking the run.bat
