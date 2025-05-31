@@ -1,4 +1,4 @@
 @echo off
 cls
-node minecraft
+node .
 pause
